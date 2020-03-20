@@ -1,0 +1,15 @@
+body,
+html {
+    background-color: beige;
+}
+
+.profil {
+    max-width: 85%;
+    max-height: 85%;
+    border-radius: 100%;
+}
+
+.aku {
+    text-align: center;
+    flex: 1;
+}
